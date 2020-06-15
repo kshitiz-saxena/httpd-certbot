@@ -1,0 +1,1 @@
+This is simple project to create a docker image with httpd and certbot pre-installed.
