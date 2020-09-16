@@ -1,4 +1,4 @@
-FROM httpd:2.4.43
+FROM httpd:2.4.46
 
 #install certbot
 RUN apt-get -y update && \
